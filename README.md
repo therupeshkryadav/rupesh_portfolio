@@ -19,7 +19,7 @@ In this repository, you will find various projects I’ve worked on, including:
 - **WarrantySafe**: A tool to manage and track product warranties, ensuring users never miss a coverage opportunity (currently in development).
 
 ## 📄 Resume & Contact
-For more details, you can view my [resume]([link-to-resume](https://drive.google.com/file/d/1LoUeQxXDbVck-Lpblxg2jOOC6vP_1cGx/view?usp=drive_link)) or reach out to me directly at [rupesh.official484@gmail.com](mailto:rupesh.official484@gmail.com).
+For more details, you can view my [resume]([https://drive.google.com/file/d/1LoUeQxXDbVck-Lpblxg2jOOC6vP_1cGx/view?usp=drive_link]) or reach out to me directly at [rupesh.official484@gmail.com](mailto:rupesh.official484@gmail.com).
 
 ## 🔗 Connect with Me
 - [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/therupeshkryadav/))
